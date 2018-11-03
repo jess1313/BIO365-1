@@ -9,10 +9,10 @@ Please go to the `BIO365` Git repository you created for a previous assignment. 
 This assignment is based on the Practice Problems at the back of Chapter 14 in the textbook. Please work through the problems listed below. Write down (or type) answers to each of the problems. Then compare your answers against the answers at the back of the book. As needed, re-work the problems until you understand them.
 
 * Practice Problem 1
-* Practice Problem 2
 * Practice Problem 4
 * Practice Problem 5
 * Practice Problem 6
+* Practice Problem 8
 * Practice Problem 9
 * Practice Problem 11
 * Practice Problem 12
