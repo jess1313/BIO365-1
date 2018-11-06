@@ -18,7 +18,7 @@ These questions are derived from *The Analysis of Biological Data - 2nd Edition*
 
 2. This problem is based on Assignment Problem 16c from Chapter 11 in the textbook. You can download the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter11/chap11q16DolphinsClockwise.csv). Please print an R vector that indicates the lower and upper bounds, respectively, for the **99%** confidence interval. Please **round these numbers to 3 decimal places**.
 
-3. This problem is based on Assignment Problem 18 from Chapter 11 in the textbook. You can download the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter11/chap11q18SticklebackPreference.csv). Use a one-sided t-test to evaluate the null hypothesis that, on average, stickleback fish do not prefer to mate differently by size. Calculate and print a P-value for this test. Please **do not round this number**.
+3. This problem is based on Assignment Problem 18 from Chapter 11 in the textbook. You can download the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter11/chap11q18SticklebackPreference.csv). Use a two-sided t-test to evaluate the null hypothesis that, on average, stickleback fish do not prefer to mate differently by size. Calculate and print a P-value for this test. Please **do not round this number**.
 
 4. This problem is based on Assignment Problem 21a from Chapter 11 in the textbook. You can access the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter11/chap11q21SoilLeadAndHurricanes.csv). Use `ggplot2` to create a histogram of the data. Use appropriate axis labels and save the graph to a file called `4.pdf`. Add a comment to your code that interprets what you see in the graph.
 
