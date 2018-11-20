@@ -1,0 +1,43 @@
+# A tibble: 40 x 2
+   duration label 
+      <dbl> <chr> 
+ 1     7.85 golden
+ 2    11.2  golden
+ 3    23.5  golden
+ 4     9.43 golden
+ 5    11.0  golden
+ 6     9.53 golden
+ 7    15.5  golden
+ 8     7.83 golden
+ 9     9.32 golden
+10     7.33 golden
+11    16.2  golden
+12     9.89 golden
+13     9.31 golden
+14    19.1  golden
+15     7.73 golden
+16    13.7  golden
+17    11.8  golden
+18     9.06 golden
+19    32.9  golden
+20     7.96 golden
+21     8.11 bald  
+22     9.7  bald  
+23     8.93 bald  
+24    10.2  bald  
+25    12.7  bald  
+26    23.8  bald  
+27    12.8  bald  
+28     7.25 bald  
+29    24.5  bald  
+30     8.74 bald  
+31    10.9  bald  
+32     7.14 bald  
+33    10.9  bald  
+34    12.0  bald  
+35    10.2  bald  
+36    16.7  bald  
+37     9.54 bald  
+38    14.0  bald  
+39    10.7  bald  
+40    13.8  bald  
