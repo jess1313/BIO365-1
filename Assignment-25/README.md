@@ -39,8 +39,11 @@ bald_eagles = c(8.11, 9.70, 8.93, 10.24, 12.67, 23.84, 12.81, 7.25, 24.49, 8.74,
 9. Example 19.1 in the textbook describes a scenario where stage performers claimed to have telepathic powers by asking audience members to think of a two-digit number and then guessed those numbers rather accurately. You can find data that represents the numbers that volunteers selected for such an exercise [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter19/chap19e1TwoDigitNumbers.csv). The book describes using a simulation to evaluate the null hypothesis that audience members choose two-digit numbers with equal probability. First, in your script, set the random seed to 0. Then use R to repeat the 5 step that the book describes, starting at the bottom of page 637. Here are some tips:
 
     a. Count the number of times each number (10-99) was guessed (you can use the `table` function for this). Make sure also to consider that some numbers were guessed 0 times.
+
     b. Under the null hypothesis, the expected frequency of guessing each number is 315 / 90.
+    
     c. Calculate the chi-squared statistic as described on page 207. Do this for the observed values. Do the same 1000 times for simulated values that are randomly selected 315 times from 10-99.
+    
     d. The chi-squared statistics that you calculate for the simulated values will not match those shown in Table 19.1-1 because they used a different (unknown) random seed.
 
     Use `ggplot2` to create a histogram displaying the simulated chi-squared statistic values. Also add a red, dashed, vertical line that shows the location of the observed chi-squared statistic. Save this graph to `9.pdf`.
