@@ -34,7 +34,7 @@ These questions are derived from *The Analysis of Biological Data - 2nd Edition*
 
 10. This problem is based on Assignment Problem 20 of Chapter 16. You can download the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter16/chap16q20SleepAndPerformance.csv). Calculate the Pearson correlation coefficient for the relationship between `sleep` and `improvement`. Print this value (**do not round**).
 
-11. This problem is based on Assignment Problem 20 of Chapter 16. You can download the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter16/chap16q26ChocolateAndNobel.csv). Calculate the standard error of the Pearson correlation coefficient for the relationship between `sleep` and `improvement`. The book describes how to calculate this (use the Pearson correlation coefficient for `r`). Print the standard error (**do not round**).
+11. This problem is based on Assignment Problem 20 of Chapter 16. You can download the data [here](http://whitlockschluter.zoology.ubc.ca/wp-content/data/chapter16/chap16q20SleepAndPerformance.csv). Calculate the standard error of the Pearson correlation coefficient for the relationship between `sleep` and `improvement`. The book describes how to calculate this (use the Pearson correlation coefficient for `r`). Print the standard error (**do not round**).
 
 ### Submitting the assignment
 
