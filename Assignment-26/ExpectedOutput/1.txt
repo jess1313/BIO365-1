@@ -1,0 +1,18 @@
+# A tibble: 3 x 3
+  SampleID FamilyID Population
+  <chr>    <chr>    <chr>     
+1 HG00096  HG00096  GBR       
+2 HG00097  HG00097  GBR       
+3 HG00099  HG00099  GBR       
+# A tibble: 3 x 3
+  SampleID `22__16186954` `22__16228163`
+  <chr>             <int>          <int>
+1 HG00096               0              0
+2 HG00097               0              0
+3 HG00099               0              0
+# A tibble: 3 x 3
+  SampleID X__1314931 X__1314990
+  <chr>         <int>      <int>
+1 HG00096           1          0
+2 HG00097           1          0
+3 HG00099           0          0
