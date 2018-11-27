@@ -1,0 +1,1 @@
+suppressPackageStartupMessages(suppressWarnings(suppressMessages(source("6.R"))))
