@@ -14,7 +14,7 @@ For this assignment, you will work with a dataset that describes the location of
 
 1. Download the dataset. Based on this dataset, create a matrix called `coordinates` that indicates the x and y coordinates of each bush. Print the first 6 rows of `coordinates`.
 
-2. This problem builds on the previous problem. Use the `set.seed` function to set R's random seed to 0. Then use the `kmeans` function to apply the k-means clustering algorithm to `coordinates`. Specify that you want to identify 3 clusters (look at the documentation for the `kmeans` function to find how to do this). Print the vector of cluster assignments that this function produced.
+2. This problem builds on the previous problem. Use the `set.seed` function to set R's random seed to 3. Then use the `kmeans` function to apply the k-means clustering algorithm to `coordinates`. Specify that you want to identify 3 clusters (look at the documentation for the `kmeans` function to find how to do this). Print the vector of cluster assignments that this function produced.
 
 3. This problem builds on the previous problem. Create a tibble that consists of the original tibble that you downloaded, merged with the cluster assignments (hint: use the `cbind` function). Use `ggplot2` to create a scatterplot of the x/y coordinates. Color each of the points based on the cluster assignments. Save the graph to `3.pdf`. *Add a brief comment to your code that describes what you interpret from this graph.*
 
