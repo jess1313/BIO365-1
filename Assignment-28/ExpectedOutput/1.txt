@@ -1,0 +1,28 @@
+# A tibble: 94 x 4
+   Class                                 Age Ethnicity          Sex   
+   <chr>                               <int> <fct>              <fct> 
+ 1 Idiopathic pulmonary fibrosis (IPF)    59 Caucasian American female
+ 2 Idiopathic pulmonary fibrosis (IPF)    63 Caucasian American male  
+ 3 Idiopathic pulmonary fibrosis (IPF)    74 Caucasian American male  
+ 4 Idiopathic pulmonary fibrosis (IPF)    73 Caucasian American male  
+ 5 Idiopathic pulmonary fibrosis (IPF)    65 Caucasian American male  
+ 6 Idiopathic pulmonary fibrosis (IPF)    66 Caucasian American male  
+ 7 Idiopathic pulmonary fibrosis (IPF)    60 Caucasian American male  
+ 8 Idiopathic pulmonary fibrosis (IPF)    60 Caucasian American male  
+ 9 Idiopathic pulmonary fibrosis (IPF)    70 Caucasian American male  
+10 Idiopathic pulmonary fibrosis (IPF)    68 African American   female
+# ... with 84 more rows
+# A tibble: 94 x 5
+   Class        ENSG00000159579 ENSG00000072506 ENSG00000076351 ENSG00000182013
+   <chr>                  <dbl>           <dbl>           <dbl>           <dbl>
+ 1 Idiopathic …           0.720           0.734        0.000984          -0.128
+ 2 Idiopathic …           1.08            1.03         0.0752            -0.138
+ 3 Idiopathic …           0.879           0.832       -0.131             -0.211
+ 4 Idiopathic …           0.966           1.04         0.0152            -0.150
+ 5 Idiopathic …           0.651           0.532       -0.146             -0.120
+ 6 Idiopathic …           0.764           0.709       -0.101             -0.123
+ 7 Idiopathic …           0.853           0.970        0.0354            -0.192
+ 8 Idiopathic …           1.02            1.09        -0.137             -0.135
+ 9 Idiopathic …           0.790           0.748       -0.0992            -0.114
+10 Idiopathic …           0.976           0.933        0.0304            -0.155
+# ... with 84 more rows
