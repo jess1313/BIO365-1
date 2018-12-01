@@ -38,7 +38,7 @@ Please use R code to answer the following. You will need to use `readr`, `dplyr`
 
 3. This problem builds on the previous one. Please do the following.
 
-    a. Apply the `prcomp` function to `chr22Data` to calculate the principal components of that object. Store the result in an object called `chr22PC`. Because the genotypes are discrete values, you do not need to scale the data.
+    a. Apply the `prcomp` function to `chr22Data` to calculate the principal components of that object. Store the result in an object called `chr22PC`. Because the genotypes are discrete values, you do *not* need to center or scale the data.
     
     b. Use `ggplot2` to create a scatterplot with the 1st principal component on the x-axis and the 2nd principal component on the y-axis. Obtain these values from the `$x` variable in `chr22PC`. Because `ggplot2` only accepts tibbles, you will need to first put these values in a tibble. This tibble should also include an integer column that indicates which principal component each of these values represents.
 
