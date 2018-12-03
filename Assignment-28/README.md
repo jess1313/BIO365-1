@@ -10,7 +10,7 @@ Please go to the `BIO365` Git repository you created for a previous assignment. 
 
 *Please let me know if you see any errors in these problem descriptions or in the expected outputs. Thanks!*
 
-Your objective will be to apply 5 different classification algorithms to 2 types of data and to determine which algorithm provides the highest classification accuracy for each type of data.
+Your objective will be to apply 5 different classification algorithms to 2 types of data and to evaluate the performance of these algorithms.
 
 Please install the following R packages, which will be used for this exercise, as shown below. (Please do **not** include code to install these packages in your scripts.)
 
@@ -18,6 +18,7 @@ Please install the following R packages, which will be used for this exercise, a
 * randomForest
 * kknn
 * gbm
+* e1071
 
 For this assignment, you will use the `mlr` package, which acts as a software wrapper around many R packages for machine learning. You can find documentation on the `mlr` package [here](https://mlr.mlr-org.com/index.html).
 
